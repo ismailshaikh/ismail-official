@@ -22,6 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailshaikh)
 
 :mailbox: How to reach me - mismail3595shaikh@gmail.com
+
 🔭 I’m currently working on - *Data Science, Machine Learning, SQL,  Data Analyst & Bi Tools.*
 
 🌱 I’m currently learning - *Deep learning, NLP, Computer Vision & Full-Stack web development.*
