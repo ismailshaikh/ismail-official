@@ -16,8 +16,8 @@
 
 *My Github stats*
 
-![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=ismailshaikh)
-
+![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=ismailshaikh)
+![Github Stats ](https://github-readme-streak-stats.herokuapp.com/?user=ismailshaikh)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailshaikh)
 
