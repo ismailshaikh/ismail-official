@@ -1,5 +1,5 @@
 
-### Hi There I am Mohammed Ismail 👋 (Mohammed Ismail Shaikh)
+### Hi There I am **Mohammed Ismail** 👋 (Mohammed Ismail Shaikh)
 
 <h4>Machine Learning Enthusiast | Data Analyst | Python Developer | Data Scientist | BI Developer.</h4>
 <h4>To utilize my knowledge and ideas in this field of machine learning, Data Analyst and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.</h4>
@@ -16,7 +16,7 @@
 
 *My Github stats*
 
-![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=ismailshaikh)
+![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ![Github Stats ](https://github-readme-streak-stats.herokuapp.com/?user=ismailshaikh)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailshaikh)
